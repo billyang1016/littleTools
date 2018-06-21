@@ -1,0 +1,2 @@
+# getControllerProxyDependencies.rb
+解析java文件，获取import中指定后缀的引用，以及注解的url路径
